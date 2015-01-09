@@ -4,3 +4,4 @@
 source 'https://github.com/CocoaPods/Specs.git'
 
 pod 'JTSImageViewController'
+pod 'Alamofire', :git => 'https://github.com/Alamofire/Alamofire.git'
